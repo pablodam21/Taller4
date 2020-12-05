@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">U3T4Event</string>
+    <string name="tvNewEvent" translatable="false">Nou Element</string>
+    <string name="btCancel" translatable="false">Cancel·lar</string>
+    <string name="tvDateTime" translatable="false">Triar data i hora</string>
+    <string name="btAccept" translatable="false">Aceptar</string>
+    <string name="lblPlace" translatable="false">Lloc</string>
+    <string name="rbHigh" translatable="false">Alt</string>
+    <string name="rbNormal" translatable="false">Normal</string>
+    <string name="rbLow" translatable="false">Baixa</string>
+    <string name="etEventName" translatable="false">Escriga un nom d\'esdeveniment</string>
+    <string name="tvCurrentData" translatable="false">Dades actuals</string>
+    <string name="title_activity_event_data" translatable="false">Dades dels esdeveniments</string>
+    <string name="tvPriority" translatable="false">Prioritat</string>
+    <string name="btEditEventData" translatable="false">Editar dades d\'esdeveniments</string>
+    <string-array name="mouths">
+        <item name="mouth1">Gener</item>
+        <item name="mouth2">Frebrer</item>
+        <item name="mouth3">Març</item>
+        <item name="mouth4">Abril</item>
+        <item name="mouth5">Maig</item>
+        <item name="mouth6">Juny</item>
+        <item name="mouth7">Juliol</item>
+        <item name="mouth8">Agost</item>
+        <item name="mouth9">Septembre</item>
+        <item name="mouth10">Octubre</item>
+        <item name="mouth11">Nombembre</item>
+        <item name="mouth12">Desembre</item>
+    </string-array>
+</resources>

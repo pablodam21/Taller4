@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">U3T4Event</string>
+    <string name="tvNewEvent" translatable="false">New Event</string>
+    <string name="etEventName" translatable="false">Type an event name</string>
+    <string name="tvCurrentData" translatable="false"> Current Data </string>
+    <string name="btEditEventData" translatable="false">Edit Event Data</string>
+    <string name="title_activity_event_data" translatable="false">Event Data</string>
+    <string name="tvPriority" translatable="false">Priority</string>
+    <string name="rbLow" translatable="false">Low</string>
+    <string name="rbNormal" translatable="false">Normal</string>
+    <string name="rbHigh" translatable="false">High</string>
+    <string name="tvDateTime" translatable="false">Set Date and Time </string>
+    <string name="btAccept" translatable="false">Accept</string>
+    <string name="btCancel" translatable="false">Cancel</string>
+    <string-array name="mouths">
+        <item name="mouth1">Junary</item>
+        <item name="mouth2">Frebrary</item>
+        <item name="mouth3">March</item>
+        <item name="mouth4">April</item>
+        <item name="mouth5">May</item>
+        <item name="mouth6">June</item>
+        <item name="mouth7">July</item>
+        <item name="mouth8">August</item>
+        <item name="mouth9">September</item>
+        <item name="mouth10">October</item>
+        <item name="mouth11">Nombember</item>
+        <item name="mouth12">December</item>
+    </string-array>
+    <string name="lblPlace" translatable="false">Place:</string>
+
+
+</resources>
